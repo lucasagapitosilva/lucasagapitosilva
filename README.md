@@ -6,7 +6,7 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasagapitosilva&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
-
+<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -17,7 +17,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
-    
+    <br>
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: lucasbezerra.rocinha@gmail.com">
