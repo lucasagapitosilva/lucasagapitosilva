@@ -4,7 +4,7 @@
   
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasagapitosilva&show_icons=true&theme=radical"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasagapitosilva&langs_count=8"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="160em" src="https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 <br>
 <br>
